@@ -6,6 +6,8 @@ This repository contains my **DSA + Java practice problems** inspired by **Pepco
 
 ## 📊 Problem Index
 
+                                             |
+
 | S.No | Problem Name                          | Platform / Problem Link                                                                                                              | Java File                                              |
 | ---: | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
 |    1 | Print Hello World                     | Pepcoding Basics                                                                                                                     | [Print.java](./Print.java)                             |
@@ -16,8 +18,8 @@ This repository contains my **DSA + Java practice problems** inspired by **Pepco
 |    6 | Count the Digits That Divide a Number | [LeetCode – Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/) | [CountDigitsInNumber.java](./CountDigitsInNumber.java) |
 |    7 | Reverse Integer / Number              | [LeetCode – Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)                                             | [ReverseNumber.java](./ReverseNumber.java)             |
 |    8 | Rotate a Number                       | [LeetCode – Rotated Digits](https://leetcode.com/problems/rotated-digits/description/)                                               | [RotateNumber.java](./RotateNumber.java)               |
-
----
+|    9 | Two Sum (Pair with Given Sum)         | [LeetCode – Two Sum](https://leetcode.com/problems/two-sum/description/)                                                             | [TwoSum.java](./TwoSum.java)                           |
+|   10 | Find Duplicate Number                 | [LeetCode – Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                     | [FindDuplicate.java](./FindDuplicate.java)             |
 
 ## 🛠 Tech Stack
 
