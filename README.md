@@ -42,6 +42,15 @@ This repository contains my **DSA + Java practice problems** inspired by **Pepco
 | 34   | Linked List – Create, Reverse, Detect Loop     | Practice                                                                                                                                                                       | `LinkedListOperations.java`          |
 | 35   | Kadane’s Algorithm (Maximum Subarray)          | [https://leetcode.com/problems/maximum-subarray/](https://leetcode.com/problems/maximum-subarray/)                                                                             | `KadanesAlgorithm.java`              |
 | 36   | Best Time to Buy and Sell Stock                | [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                               | `BuySellStock.java`                  |
+| 37   | Stock Span                          | [https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)                     | `StockSpan.java`               |
+| 38   | Check for Balanced Parentheses      | [https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1)                                 | `BalancedParentheses.java`     |
+| 39   | Reverse a String using Stack        | [https://www.geeksforgeeks.org/problems/reverse-a-string/1](https://www.geeksforgeeks.org/problems/reverse-a-string/1)                                               | `ReverseStringUsingStack.java` |
+| 40   | Two Stacks in an Array              | [https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1](https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)               | `TwoStacksInArray.java`        |
+| 41   | Delete Middle Element of a Stack    | [https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1](https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1)               | `DeleteMiddleOfStack.java`     |
+| 42   | Reverse Each Word in a Given String | [https://www.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string1001/1](https://www.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string1001/1) | `ReverseEachWord.java`         |
+| 43   | Postfix to Prefix Conversion        | [https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1)                       | `PostfixToPrefix.java`         |
+| 44   | Next Greatest Number | Practice        | `NextGreatestNumber.java` |
+|45    |DuplicateBrackets       | Practice        | `DuplicateBrackets.java` |
 
 ## 🛠 Tech Stack
 
