@@ -51,6 +51,13 @@ This repository contains my **DSA + Java practice problems** inspired by **Pepco
 | 43   | Postfix to Prefix Conversion        | [https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1)                       | `PostfixToPrefix.java`         |
 | 44   | Next Greatest Number | Practice        | `NextGreatestNumber.java` |
 |45    |DuplicateBrackets       | Practice        | `DuplicateBrackets.java` |
+| 46   | Trapping Rain Water                  | [https://leetcode.com/problems/trapping-rain-water/](https://leetcode.com/problems/trapping-rain-water/) | `TrappingRainWater.java` |
+| 47   | Sort Colors (Dutch National Flag)    | [https://leetcode.com/problems/sort-colors/](https://leetcode.com/problems/sort-colors/)                 | `SortColors.java`        |
+| 48   | Move Zeroes to End                   | [https://leetcode.com/problems/move-zeroes/](https://leetcode.com/problems/move-zeroes/)                 | `MoveZeroes.java`        |
+| 49   | Maximum and Minimum Element in Array | Practice                                                                                                 | `MaxMinElement.java`     |
+| 50   | Majority Element                     | [https://leetcode.com/problems/majority-element/](https://leetcode.com/problems/majority-element/)       | `MajorityElement.java`   |
+| 51   | Find Peak Element                    | [https://leetcode.com/problems/find-peak-element/](https://leetcode.com/problems/find-peak-element/)     | `FindPeakElement.java`   |
+| 52   | Check if Array is Sorted             | Practice                                                                                                 | `CheckSortedArray.java`  |
 
 ## 🛠 Tech Stack
 
