@@ -63,6 +63,13 @@ This repository contains my **DSA + Java practice problems** inspired by **Pepco
 | 55   | First Unique Character in a String             | [https://leetcode.com/problems/first-unique-character-in-a-string/](https://leetcode.com/problems/first-unique-character-in-a-string/)                                         | `FirstUniqueCharacter.java`          |
 | 56   | Number of Students Unable to Eat Lunch         | [https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)                                 | `StudentsUnableToEatLunch.java`      |
 | 57   | Time Needed to Buy Tickets                     | [https://leetcode.com/problems/time-needed-to-buy-tickets/](https://leetcode.com/problems/time-needed-to-buy-tickets/)                                                         | `TimeNeededToBuyTickets.java`        |
+| 58   | Length of Linked List              | [https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1)                     | `LengthOfLinkedList.java`       |
+| 59   | Linked List End Insertion          | [https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1)         | `LinkedListEndInsertion.java`   |
+| 60   | Delete Head of Linked List         | [https://www.geeksforgeeks.org/problems/delete-head-of-linked-list/1](https://www.geeksforgeeks.org/problems/delete-head-of-linked-list/1)                     | `DeleteHeadLinkedList.java`     |
+| 61   | Deletion at the End of Linked List | [https://www.geeksforgeeks.org/problems/deletion-at-the-end-of-a-linked-list/1](https://www.geeksforgeeks.org/problems/deletion-at-the-end-of-a-linked-list/1) | `DeleteEndLinkedList.java`      |
+| 62   | Remove Linked List Elements        | [https://leetcode.com/problems/remove-linked-list-elements/](https://leetcode.com/problems/remove-linked-list-elements/)                                       | `RemoveLinkedListElements.java` |
+| 63   | Reverse Linked List                | [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)                                                       | `ReverseLinkedList.java`        |
+
 
 ## 🛠 Tech Stack
 
