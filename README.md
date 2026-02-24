@@ -30,32 +30,39 @@ This repository contains my **DSA + Java practice problems** inspired by **Pepco
 | ---- | ------------------------------------ | ------------- |
 | 12   | Mean of an Array                     | GeeksforGeeks |
 | 13   | Largest in Array                     | GeeksforGeeks |
-| 14   | Second Largest                       | GeeksforGeeks |
-| 15   | Reverse an Array                     | GeeksforGeeks |
-| 16   | Remove Duplicates from Sorted Array  | GeeksforGeeks |
-| 17   | Check if Array is Sorted             | GeeksforGeeks |
-| 18   | Max Consecutive Ones                 | GeeksforGeeks |
-| 19   | Span of Array                        | Practice      |
-| 20   | Find Element in Array                | Practice      |
-| 21   | Maximum and Minimum Element in Array | Practice      |
+| 14   | First and Second Smallests           | GeeksforGeeks |
+| 15   | Second Largest                       | GeeksforGeeks |
+| 16   | Reverse an Array                     | GeeksforGeeks |
+| 17   | Remove Duplicates from Sorted Array  | GeeksforGeeks |
+| 18   | Check if Array is Sorted             | GeeksforGeeks |
+| 19   | Max Consecutive Ones                 | GeeksforGeeks |
+| 20   | Span of Array                        | Practice      |
+| 21   | Find Element in Array                | Practice      |
+| 22   | Maximum and Minimum Element in Array | Practice      |
+| 23   | Median of an Array                   | GeeksforGeeks |
 
 ---
 
-# ➕ 3️⃣ Array Advanced / Interview Level
+# ➕ 3️⃣ Arrays – Interview / Logic Based
 
-| S.No | Problem Name                          | Platform |
-| ---- | ------------------------------------- | -------- |
-| 22   | Two Sum                               | LeetCode |
-| 23   | Find Duplicate Number                 | LeetCode |
-| 24   | Minimum Common Value                  | LeetCode |
-| 25   | Product of Array Except Self          | LeetCode |
-| 26   | Kadane’s Algorithm (Maximum Subarray) | LeetCode |
-| 27   | Best Time to Buy and Sell Stock       | LeetCode |
-| 28   | Trapping Rain Water                   | LeetCode |
-| 29   | Sort Colors (Dutch National Flag)     | LeetCode |
-| 30   | Move Zeroes to End                    | LeetCode |
-| 31   | Majority Element                      | LeetCode |
-| 32   | Find Peak Element                     | LeetCode |
+| S.No | Problem Name                             | Platform      |
+| ---- | ---------------------------------------- | ------------- |
+| 24   | Two Sum                                  | LeetCode      |
+| 25   | Find Duplicate Number                    | LeetCode      |
+| 26   | Minimum Common Value                     | LeetCode      |
+| 27   | Product of Array Except Self             | LeetCode      |
+| 28   | Kadane’s Algorithm (Maximum Subarray)    | LeetCode      |
+| 29   | Best Time to Buy and Sell Stock          | LeetCode      |
+| 30   | Stock Buy and Sell – Max One Transaction | GeeksforGeeks |
+| 31   | Trapping Rain Water                      | LeetCode      |
+| 32   | Sort Colors (Dutch National Flag)        | LeetCode      |
+| 33   | Move Zeroes to End                       | LeetCode      |
+| 34   | Majority Element                         | LeetCode      |
+| 35   | Find Peak Element                        | LeetCode      |
+| 36   | Rotate Array                             | GeeksforGeeks |
+| 37   | Array Subset of Another Array            | GeeksforGeeks |
+| 38   | Equal Sum                                | GeeksforGeeks |
+| 39   | 1-D Prefix Sum                           | GeeksforGeeks |
 
 ---
 
@@ -63,27 +70,28 @@ This repository contains my **DSA + Java practice problems** inspired by **Pepco
 
 | S.No | Problem Name                                   | Platform      |
 | ---- | ---------------------------------------------- | ------------- |
-| 33   | Palindrome String                              | GeeksforGeeks |
-| 34   | Reverse a String                               | GeeksforGeeks |
-| 35   | Reverse Each Word in String                    | GeeksforGeeks |
-| 36   | First Non-Repeating Character                  | GeeksforGeeks |
-| 37   | First Unique Character in String               | LeetCode      |
-| 38   | Longest Substring Without Repeating Characters | LeetCode      |
-| 39   | Valid Parentheses                              | LeetCode      |
+| 40   | Palindrome String                              | GeeksforGeeks |
+| 41   | Reverse a String                               | GeeksforGeeks |
+| 42   | Reverse Each Word in String                    | GeeksforGeeks |
+| 43   | First Non-Repeating Character                  | GeeksforGeeks |
+| 44   | First Unique Character in String               | LeetCode      |
+| 45   | Longest Substring Without Repeating Characters | LeetCode      |
+| 46   | Valid Parentheses                              | LeetCode      |
 
 ---
 
 # 📦 5️⃣ Stack
 
-| S.No | Problem Name                   | Platform      |
-| ---- | ------------------------------ | ------------- |
-| 40   | Balanced Parentheses           | GeeksforGeeks |
-| 41   | Reverse String using Stack     | GeeksforGeeks |
-| 42   | Two Stacks in an Array         | GeeksforGeeks |
-| 43   | Delete Middle Element of Stack | GeeksforGeeks |
-| 44   | Postfix to Prefix Conversion   | GeeksforGeeks |
-| 45   | Duplicate Brackets             | Practice      |
-| 46   | Stock Span                     | GeeksforGeeks |
+| S.No | Problem Name                      | Platform      |
+| ---- | --------------------------------- | ------------- |
+| 47   | Implement Stack using Linked List | GeeksforGeeks |
+| 48   | Balanced Parentheses              | GeeksforGeeks |
+| 49   | Reverse String using Stack        | GeeksforGeeks |
+| 50   | Two Stacks in an Array            | GeeksforGeeks |
+| 51   | Delete Middle Element of Stack    | GeeksforGeeks |
+| 52   | Postfix to Prefix Conversion      | GeeksforGeeks |
+| 53   | Duplicate Brackets                | Practice      |
+| 54   | Stock Span                        | GeeksforGeeks |
 
 ---
 
@@ -91,24 +99,26 @@ This repository contains my **DSA + Java practice problems** inspired by **Pepco
 
 | S.No | Problem Name                 | Platform |
 | ---- | ---------------------------- | -------- |
-| 47   | Implement Queue using Stacks | LeetCode |
-| 48   | Number of Recent Calls       | LeetCode |
-| 49   | Students Unable to Eat Lunch | LeetCode |
-| 50   | Time Needed to Buy Tickets   | LeetCode |
+| 55   | Implement Queue using Stacks | LeetCode |
+| 56   | Number of Recent Calls       | LeetCode |
+| 57   | Students Unable to Eat Lunch | LeetCode |
+| 58   | Time Needed to Buy Tickets   | LeetCode |
 
 ---
 
 # 🔗 7️⃣ Linked List
 
-| S.No | Problem Name                 | Platform      |
-| ---- | ---------------------------- | ------------- |
-| 51   | Length of Linked List        | GeeksforGeeks |
-| 52   | Linked List End Insertion    | GeeksforGeeks |
-| 53   | Delete Head of Linked List   | GeeksforGeeks |
-| 54   | Delete End of Linked List    | GeeksforGeeks |
-| 55   | Remove Linked List Elements  | LeetCode      |
-| 56   | Reverse Linked List          | LeetCode      |
-| 57   | Create, Reverse, Detect Loop | Practice      |
+| S.No | Problem Name                     | Platform      |
+| ---- | -------------------------------- | ------------- |
+| 59   | Length of Linked List            | GeeksforGeeks |
+| 60   | Linked List End Insertion        | GeeksforGeeks |
+| 61   | Delete Head of Linked List       | GeeksforGeeks |
+| 62   | Delete End of Linked List        | GeeksforGeeks |
+| 63   | Remove Linked List Elements      | LeetCode      |
+| 64   | Reverse Linked List              | LeetCode      |
+| 65   | Kth Node from End of Linked List | GeeksforGeeks |
+| 66   | Middle of a Linked List          | GeeksforGeeks |
+| 67   | Create, Reverse, Detect Loop     | Practice      |
 
 ---
 
@@ -116,13 +126,13 @@ This repository contains my **DSA + Java practice problems** inspired by **Pepco
 
 | S.No | Problem Name                   | Platform |
 | ---- | ------------------------------ | -------- |
-| 58   | Decimal to Any Base            | Practice |
-| 59   | Any Base to Decimal            | Practice |
-| 60   | Any Base Addition              | Practice |
-| 61   | Convert to Base -2             | LeetCode |
-| 62   | Base-7                         | LeetCode |
-| 63   | Sum of Digits in Base K        | LeetCode |
-| 64   | Compute Decimal Representation | LeetCode |
+| 68   | Decimal to Any Base            | Practice |
+| 69   | Any Base to Decimal            | Practice |
+| 70   | Any Base Addition              | Practice |
+| 71   | Convert to Base -2             | LeetCode |
+| 72   | Base-7                         | LeetCode |
+| 73   | Sum of Digits in Base K        | LeetCode |
+| 74   | Compute Decimal Representation | LeetCode |
 
 ---
 
@@ -130,21 +140,15 @@ This repository contains my **DSA + Java practice problems** inspired by **Pepco
 
 | S.No | Problem Name        | Platform  |
 | ---- | ------------------- | --------- |
-| 65   | 20 Pattern Problems | Pepcoding |
+| 75   | 20 Pattern Problems | Pepcoding |
 
 ---
 
 ## 🛠 Tech Stack
 
 * **Language:** Java ☕
-* **Focus:** DSA Fundamentals, Logic Building
 * **Platforms:** Pepcoding, LeetCode, GeeksforGeeks
-
----
-
-## 🎯 Goal
-
-To build strong **DSA fundamentals** for coding interviews and problem-solving rounds.
+* **Focus:** DSA Fundamentals, Logic Building
 
 ---
 
